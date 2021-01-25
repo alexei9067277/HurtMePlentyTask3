@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="870e63b9-cc15-42bb-9b17-bb505b5d8897" name="Default Changelist" comment="" />
+    <list default="true" id="870e63b9-cc15-42bb-9b17-bb505b5d8897" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,20 +33,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/trainings/CDP 2020/Selenium WebDriver/WebDriverHurtMePlenty-main_Lipskaya" />
+    <property name="last_opened_file_path" value="D:/trainings/CDP 2020/Selenium WebDriver/WebDriver-Task-Hardcore-Level-FirstTestVersion/WebDriver-Task-Hardcore-Level-FirstTestVersion" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GoogleCloudPageTests.calculatePriceForComputeEngine" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HurtMePlentyTask3" />
       <extension name="coverage">
@@ -77,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611478215528</updated>
-      <workItem from="1611478216680" duration="24785000" />
+      <workItem from="1611478216680" duration="27101000" />
     </task>
     <servers />
   </component>
