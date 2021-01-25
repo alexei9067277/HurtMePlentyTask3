@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="870e63b9-cc15-42bb-9b17-bb505b5d8897" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pagesWithPO/GoogleCloudPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pagesWithPO/GoogleCloudPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/trainings/CDP 2020/Selenium WebDriver/WebDriver-Task-Hardcore-Level-FirstTestVersion/WebDriver-Task-Hardcore-Level-FirstTestVersion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="GoogleCloudPageTests.calculatePriceForComputeEngine" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -69,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611478215528</updated>
       <workItem from="1611478216680" duration="27101000" />
+      <workItem from="1611583864926" duration="1066000" />
     </task>
     <servers />
   </component>
@@ -85,5 +87,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
